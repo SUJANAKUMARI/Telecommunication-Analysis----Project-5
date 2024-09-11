@@ -258,7 +258,7 @@ elif page == "User Engagement Analysis":
         st.dataframe((top_10_total_traffic[['MSISDN/Number', 'total_traffic']]))
 
     st.subheader("Visualization of Engagement Metrics")
-    image = Image.open('visualization of engagement metrics.png')
+    image = Image.open('Visualization of engagement metrics.png')
     st.image(image)
 
     st.markdown("""
