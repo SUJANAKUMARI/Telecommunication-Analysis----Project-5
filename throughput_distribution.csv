@@ -1,0 +1,1395 @@
+,Handset Type,Average Throughput (kbps)
+0,A-Link Telecom I. Cubot A5,11755.0
+1,A-Link Telecom I. Cubot Note Plus,3349.5
+2,A-Link Telecom I. Cubot Note S,4468.5
+3,A-Link Telecom I. Cubot Nova,28108.5
+4,A-Link Telecom I. Cubot Power,34734.0
+5,A-Link Telecom I. Cubot R9,2019.5
+6,A-Link Telecom I. Cubot X18 Plus,6279.5
+7,Acer Liquid M220,17.0
+8,Acer Liquid Z220,276.0
+9,Acer Liquid Z530,167.0
+10,Acer Liquid Z630,224.0
+11,Acer Liquid Zest 4G,14544.5
+12,Acer Liquid Zest Plus,549.25
+13,Acer M310,249.7
+14,Acer V370 Acer V370 Liquid E2 Duo,3625.0
+15,Acer Zx Z130,274.5
+16,Adar Stanley Mobile S231,249.0
+17,Alif Communicati. Pulian Cm84,11.0
+18,Apple iPad (A1823),7523.25
+19,Apple iPad (A1954),14058.57936925926
+20,Apple iPad 2 (A1396),1801.875
+21,Apple iPad 3 (A1430),7542.25
+22,Apple iPad 4 (A1460),12312.75
+23,Apple iPad Air (A1475),4725.486111111111
+24,Apple iPad Air 2 (A1567),7252.541666666667
+25,Apple iPad Mini (A1455),490.5
+26,Apple iPad Mini (A1490),22440.0
+27,Apple iPad Mini (A1600),723.5
+28,Apple iPad Mini 4 (A1550),2755.3738107777776
+29,Apple iPad Pro (A1652),3372.5038272222223
+30,Apple iPad Pro 10.5 (A1709),4548.710246944444
+31,Apple iPad Pro 12.9 (A1671),22317.25
+32,Apple iPad Pro 9.7 (A1674),3157.8854166666665
+33,Apple iPhone 3Gs (A1303),309.9861111111111
+34,Apple iPhone 4 (A1332),617.0833333333334
+35,Apple iPhone 4S (A1387),848.4568376068377
+36,Apple iPhone 4S (A1431),145.0
+37,Apple iPhone 5 (A1428) A1428S,5265.527777777777
+38,Apple iPhone 5 (A1429),2920.7954545454545
+39,Apple iPhone 5C (A1456),2164.174604567901
+40,Apple iPhone 5C (A1507),4009.9544270833335
+41,Apple iPhone 5C (A1529),4233.253968253968
+42,Apple iPhone 5C (A1532),3914.9298245614036
+43,Apple iPhone 5S (A1453),4139.722857644445
+44,Apple iPhone 5S (A1457),4805.527381422619
+45,Apple iPhone 5S (A1528),252.5
+46,Apple iPhone 5S (A1530),7797.788693611111
+47,Apple iPhone 5S (A1533),3659.1586737380953
+48,Apple iPhone 6 (A1549),3333.722603511521
+49,Apple iPhone 6 (A1586),3146.685075735025
+50,Apple iPhone 6 Plus (A1522),4036.898965792541
+51,Apple iPhone 6 Plus (A1524),3241.214467491275
+52,Apple iPhone 6S (A1633),3322.606960298942
+53,Apple iPhone 6S (A1688),2834.1070534708206
+54,Apple iPhone 6S (A1700),4132.323529411765
+55,Apple iPhone 6S Plus (A1634),4080.9877925396827
+56,Apple iPhone 6S Plus (A1687),2585.0160732453887
+57,Apple iPhone 6S Plus (A1699),1171.857142857143
+58,Apple iPhone 7 (A1660),3513.015066386105
+59,Apple iPhone 7 (A1778),4188.750309622254
+60,Apple iPhone 7 (A1779),3546.637584888889
+61,Apple iPhone 7 (A1780),36.5
+62,Apple iPhone 7 Plus (A1661),3264.7298071832356
+63,Apple iPhone 7 Plus (A1784),4090.449470892019
+64,Apple iPhone 7 Plus (A1785),1733.668832878788
+65,Apple iPhone 8 (A1863),3454.1363207048985
+66,Apple iPhone 8 (A1905),3460.7547670647286
+67,Apple iPhone 8 (A1906),5070.688989270833
+68,Apple iPhone 8 Plus (A1864),3225.225253947812
+69,Apple iPhone 8 Plus (A1897),3830.611730685442
+70,Apple iPhone 8 Plus (A1898),244.41666666666666
+71,Apple iPhone 8 Plus (A1899),31.5
+72,Apple iPhone Se (A1662),2460.8049263678163
+73,Apple iPhone Se (A1723),2561.6231352995324
+74,Apple iPhone X (A1865),3465.026972329235
+75,Apple iPhone X (A1901),4168.849834385938
+76,Apple iPhone X (A1902),44.25
+77,Apple iPhone Xr (A1984),8383.706080625001
+78,Apple iPhone Xr (A2105),3682.838380213469
+79,Apple iPhone Xr (A2106),3191.375
+80,Apple iPhone Xr (A2108),2761.8339017195767
+81,Apple iPhone Xs (A1920),6155.676872539682
+82,Apple iPhone Xs (A2097),3933.1623957713564
+83,Apple iPhone Xs (A2098),38.0
+84,Apple iPhone Xs (A2100),3926.2767904166667
+85,Apple iPhone Xs Max (A1921),5711.204021190476
+86,Apple iPhone Xs Max (A2101),3430.7507269956773
+87,Apple iPhone Xs Max (A2104),2861.169218148148
+88,Archos Sa 50 Cesium,74.0
+89,Archos Sa 50 Platinum 4G,6444.25
+90,Archos Sa 50 Saphir,6041.708333333333
+91,Archos Sa 50 Titanium 4G,191.25
+92,Archos Sa 50B Cobalt (Lite),3758.5
+93,Archos Sa 50F Neon,7105.0
+94,Archos Sa 55 Cobalt + Bush Spira B3 5.5,1476.75
+95,Archos Sa 55 Diamond Selfie ( Lite),25898.5
+96,Archos Sa 55 Helium (Ultra),6398.9375
+97,Archos Sa 55B Platinum,2661.0833333333335
+98,Archos Sa Access 45 4G,3058.0
+99,Archos Sa Access 50 4G,310.0
+100,Archos Sa Access 55 3G,4859.5
+101,Archos Sa Archos 40 Helium,55.0
+102,Archos Sa Archos 45B Helium 50B Helium 50C Helium 50D Helium 50 Diamond,6331.5
+103,Archos Sa Archos 50 Cobalt Bush Spira B3 5,10127.0
+104,Archos Sa Archos 50C Platinum,1266.0
+105,Archos Sa Archos 60 Platinum,5924.0
+106,Archos Sa Archos Sense 50X,36.5
+107,Archos Sa Core 50 4G(L),2573.75
+108,Archos Sa Core 70 3G,296.0
+109,Archos Sa Diamond S,373.0
+110,Archos Sa Sense 101X,248.5
+111,Archos Sa Sense 55S,20353.0
+112,Asustek Asus Asus_Z00Ada,7108.5
+113,Asustek Asus Za550Kl Zenfone Max M1,9738.1
+114,Asustek Asus Zb500Kg,5101.5
+115,Asustek Asus Zb500Tl,5192.0
+116,Asustek Asus Zb552Kl Zenfone Go,4531.928571428572
+117,Asustek Asus Zb555Kl Zenfone Max M1,638.0
+118,Asustek Asus Zb570Tl,14886.5
+119,Asustek Asus Zb633Kl Zenfone Max M2,18557.0
+120,Asustek Asus Zc521Tl Zenfone 3S Max,5319.5
+121,Asustek Asus Zc550Tl,66.0
+122,Asustek Asus Zc553Kl Zenfone 3 Max,7037.35
+123,Asustek Asus Ze500Kl Zenfone 2 Lazer,10600.25
+124,Asustek Asus Ze550Kl Zenfone2 Laser,31494.5
+125,Asustek Asus Zenfone 2 Laser Ze500Kl,11268.333333333334
+126,Asustek Asus Zenfone 3 Deluxe Zs570Kl,22469.0
+127,Asustek Asus Zenfone 3 Laser Zc551Kl,7066.5
+128,Asustek Asus Zenfone 3 Max Zc520Tl,8854.387538794326
+129,Asustek Asus Zenfone 3 Ze520Kl,9522.666666666666
+130,Asustek Asus Zenfone 3 Ze552Kl,3062.277777777778
+131,Asustek Asus Zenfone 4 Max Zc554Kl,17760.029411764706
+132,Asustek Asus Zenfone 4 Selfie Zd553Kl,6794.916666666667
+133,Asustek Asus Zenfone 4 Ze554Kl,6815.0
+134,Asustek Asus Zenfone 5 Lite Zc600Kl,7772.0
+135,Asustek Asus Zenfone 5 Ze620Kl,9981.214285714286
+136,Asustek Asus Zenfone Go Zb500Kl,9536.233333333334
+137,Asustek Asus Zenfone Live Zb501Kl,7399.125
+138,Asustek Asus Zenfone Live Zb553Kl,701.5
+139,Asustek Asus Zenfone Max Plus Zb570Tl,8884.161764705883
+140,Asustek Asus Zenfone Max Pro Zb631Kl,5361.916666666667
+141,Asustek Asus Zenfone Max Zc550Kl,5343.5
+142,Asustek Asus Zenfone Selfie Zd551Kl,13792.5
+143,Asustek Asus Zenfone Zoom S Ze553Kl,12678.416666666666
+144,Asustek Asus Zenfone Zoom Zx551Ml,6781.0
+145,Asustek Asus Zenfone2 Laser Ze600Kl,15332.7
+146,Asustek Asus Zenfone2 Laser Ze601Kl,4309.375
+147,Asustek Asus Zenfone2 Ze551Ml,21575.0
+148,Asustek Asus Zenfone4 Max Zc520Kl,9213.08458745614
+149,Asustek Asus Zs620Kl Zenfone 5Z,15783.0
+150,Asustek Asus_Z00Ad,11846.9375
+151,Asustek Asus_Z00D,19779.0
+152,Asustek Wireless-Ac1200 Lte Router,11976.26787125
+153,Asustek Zc550Kl Zenfone Max,3826.25
+154,Asustek Zenfone 4 Selfie Pro,6698.5625
+155,Asustek Zenfone Max Pro(M1),9851.25
+156,Asustek Zenfone Max Zc550Kl,7272.0
+157,Avenir Telecom Pm550S,1231.75
+158,Beijing Shenqi T. Z2 Pro,19812.5
+159,Bird L8,16898.5
+160,Blu Products Inc Blu R1 Plus,2118.0
+161,Blu Products Inc Blu Studio C 5+5,791.0
+162,Bullitt Group Li. Cat S30,4640.5
+163,Bullitt Group Li. S41,641.5
+164,Bullitt Group Li. S60,2798.5
+165,Bullitt Group Li. S61,3288.0
+166,Casper Bilgisaya. Via M1,3711.5
+167,China Trade Grou. Ed1,7243.5
+168,Cisco Systems In. Cisco Mc7304,121.5
+169,Civicom Technolo. European,13390.0
+170,Ck Telecom Limit. M1,243.5
+171,Compal Electroni. Cat B15Q,3547.5
+172,Concox Informati. Concox Gt06 Gt06N Tr06,1.0
+173,Concox Informati. Gt06,1.5
+174,Concox Informati. Gt06E Gt06F Gv20,1.75
+175,Concox Informati. Jh09,563.0
+176,Crosscall Action-X3,4133.79347826087
+177,Crosscall Action-X3 Pro,7069.875
+178,Crosscall Core-X3,8520.3125
+179,Crosscall Odyssey-S1,239.875
+180,Crosscall Trekker-M1,8777.75
+181,Crosscall Trekker-M1 Core,5504.630208333333
+182,Crosscall Trekker-X3,10049.25
+183,Crosscall Trekker-X4,8711.50328047619
+184,D-Link Corporati. D-Link Dwr-921,10696.558040416667
+185,D-Link Corporati. D-Link Lte Usb Adaptor,1541.821441111111
+186,D-Link Corporati. Dwr-921,13893.9375
+187,D-Link Corporati. Dwr-932,1506.0
+188,D-Link Corporati. Dwr-953,114.5
+189,Ddm Brands Llc Andy 4.5El Lte,2129.75
+190,Ddm Brands Llc Andy 4Ei2,213.0
+191,Ddm Brands Llc Andy 5Ei3,1219.0
+192,Ddm Brands Llc Andy 5El Lte,84.0
+193,Ddm Brands Llc Andy C5V,5957.0
+194,Ddm Brands Llc Energy S550,11806.0
+195,Ddm Brands Llc Yezz Andy 5.5Ei,2773.5
+196,Ddm Brands Llc Yezz Andy A6M,148.5
+197,Dg Homtom Group. Homtom H50,9371.75
+198,Dg Homtom Group. Homtom Ht16,346.0
+199,Dg Homtom Group. Homtom Ht3,11553.0
+200,Dn Electronics Danew Konnect 350,4935.818181818182
+201,Dn Electronics Surnaturel R500,700.3333333333334
+202,Doke Communicati. Blackview Bv6800 Pro,36729.5
+203,Doro Ab Doro 6520 Doro 6521,22.25
+204,Doro Ab Doro 6530 Doro 6531,22.0
+205,Doro Ab Doro 8030 Doro 8028 Doro 8031,1198.5
+206,Doro Ab Doro 8030 Doro 8028 Doro 8031 Doro 8030C Doro 8031C,4534.961538461538
+207,Doro Ab Doro 8040,522.5
+208,Doro Ab Doro Liberto 820,448.0
+209,Doro Ab Doro Liberto 822 Doro 8031,576.5
+210,Doro Ab Doro Liberto 825,2866.25
+211,Doro Ab Doro Phoneeasy 632,23.0
+212,Dynamic Tech Hol. D-Mobile I3 I5 I7 I8 I9,128.16666666666666
+213,Ecom Instruments. Ecom Mobile Safety Ex-Handy 209,4169.5
+214,Ecom Instruments. Ecom Mobile Safety Smart-Ex 201,9499.0
+215,Electro Depot Fr. W55Hd,7124.5
+216,Ertebat Hamrah G. Glx H1,3338.3333333333335
+217,Essential Produc. Ph-1,12287.5
+218,Fairphone B.V Fairphone 2,11676.125
+219,Fully Holdings (. C8 4G,5239.5
+220,Fully Holdings (. K10,779.0
+221,Fully Holdings (. Oukitel C2,11086.5
+222,Gemalto M2M Gmbh Cinterion Bgs3,4.0
+223,Gemalto M2M Gmbh Cinterion Ehs5-E,10.5
+224,Gemalto M2M Gmbh Cinterion Ehs6,20.25
+225,Gemalto M2M Gmbh Cinterion Pls8-E,80.80555555555556
+226,Gemalto M2M Gmbh Cinterion Wireless Module Phs8-P,28.5
+227,Gemalto M2M Gmbh Eu3-E,19.25
+228,Gigaset Communic. Gs100,5223.5
+229,Gigaset Communic. Gs185,2418.5
+230,Google Inc G011C,14978.245762222223
+231,Google Inc Pixel 3,8134.369047619048
+232,Google Inc Pixel 3Xl,6096.564413611111
+233,Gotron (Hk) Elec. Armor X,8023.0
+234,Gotron (Hk) Elec. Gemini,2083.5
+235,Gotron (Hk) Elec. Power 5,52.0
+236,Group Acquisitio. Cirrus 5,5204.0
+237,Group Acquisitio. Fly Evo Chic 4,44.0
+238,Haier G50 L54,5807.333333333333
+239,Haier Hw-W717 Hw-W816 Hw-W870,76.0
+240,Haier L55,13210.0
+241,Haier W826,4378.0
+242,Hem Easy,5139.642857142857
+243,Hewlett-Packard Hp Elite X3,30.5
+244,Hmd Global Oy Nokia 1,275.5
+245,Hmd Global Oy Nokia 1 Ds,1913.2857142857142
+246,Hmd Global Oy Nokia 2,17820.25
+247,Hmd Global Oy Nokia 2 Ds,3816.75
+248,Hmd Global Oy Nokia 3,7198.75
+249,Hmd Global Oy Nokia 3 Ds,189.625
+250,Hmd Global Oy Nokia 3310 Ds 3G,24.0
+251,Hmd Global Oy Nokia 5 Ds,3011.9
+252,Hmd Global Oy Nokia 5 Ss,14.5
+253,Hmd Global Oy Nokia 6 Ds,3057.5
+254,Hmd Global Oy Nokia 6 Ss,11792.42857142857
+255,Hmd Global Oy Nokia 6.1 Ds,5989.111111111111
+256,Hmd Global Oy Nokia 7 Plus Ds,10148.394635252525
+257,Hmd Global Oy Nokia 8 Ss,5888.333333333333
+258,Hmd Global Oy Nokia 8110 4G Ds,42.5
+259,Hmd Global Oy Ta-1003,206.5
+260,Hmd Global Oy Ta-1006,34.15
+261,Hmd Global Oy Ta-1049,11971.0
+262,Hmd Global Oy Ta-1063,2314.645341140351
+263,Hmd Global Oy Ta-1063 Ds,7783.25
+264,Hmd Global Oy Ta-1080,1587.65
+265,Hmd Global Oy Ta-1095,11791.75
+266,Hmd Global Oy Ta-1109,7.0
+267,Hong Kong Frog I. A10,222.0
+268,Hongkong Ipro Te. Ipro I9350 I9400 S3 Wave 3.5 Wave 4.0,51.5
+269,Honstech Communi. Do G26,2716.5
+270,Htc 10,12789.25
+271,Htc 2Pya210,6898.833333333333
+272,Htc 2Q55100,1178.5
+273,Htc 2Q5V100,17661.25
+274,Htc 2Q5W100,19607.0
+275,Htc 2Q6E100,23746.5
+276,Htc Clic100,182.5
+277,Htc Desire,32.0
+278,Htc Desire 10 Lifestyle,18.5
+279,Htc Desire 310,3626.5
+280,Htc Desire 510,5117.847222222222
+281,Htc Desire 530,4387.0
+282,Htc Desire 610,4045.8333333333335
+283,Htc Desire 620,4337.666666666667
+284,Htc Desire 626,4800.375
+285,Htc Desire 650,7974.6875
+286,Htc Desire 728,9309.0
+287,Htc Desire 816,7784.166666666667
+288,Htc Desire 820,6466.4375
+289,Htc Desire 820G Plus Dual Sim,7536.5
+290,Htc Desire 825,9062.15909090909
+291,Htc Desire C,220.25
+292,Htc Desire X,122.0
+293,Htc One,2331.5333333333333
+294,Htc One (M8),2435.875
+295,Htc One A9,13284.416666666666
+296,Htc One M9,9969.3
+297,Htc One Mini,8200.0
+298,Htc One Mini 2,8391.5
+299,Htc Pl80100,180.0
+300,Htc U Play,3157.1666666666665
+301,Htc U11,551.0
+302,Htc Windows Phone 8S By Htc,124.25
+303,Huawei Ale-Ul00,2197.25
+304,Huawei Ascend G6,3718.0
+305,Huawei Ascend G620S,6536.5
+306,Huawei Ascend Mate7,5743.0
+307,Huawei Ascend P7,7033.0
+308,Huawei Ascend Y330,1252.611111111111
+309,Huawei Ascend Y530,4447.5
+310,Huawei Ascend Y550,13275.5
+311,Huawei Ascend Y600,4763.0
+312,Huawei Aum-Al00,33912.0
+313,Huawei B315S-22,7945.333333333333
+314,Huawei B525S-23A,9075.207287228013
+315,Huawei B525S-65A,14916.75
+316,Huawei B528S-23A,18432.963994725844
+317,Huawei B593,8045.0
+318,Huawei B593S-12,6992.53125
+319,Huawei B593S-22,8836.026090972222
+320,Huawei B618S-22D,10697.309523809525
+321,Huawei B715S-23C,18296.395889833333
+322,Huawei Bkl-Al20,4773.25
+323,Huawei Bkl-Tl10,16015.5
+324,Huawei Bln-Al10,2880.5
+325,Huawei Bln-Al30,4343.6875
+326,Huawei Bln-Tl10,11697.5
+327,Huawei Bnd-Al10,30.0
+328,Huawei Chc-U01,46.0
+329,Huawei Col-Al10,16127.666666666666
+330,Huawei Col-L29,5247.354864068628
+331,Huawei Cor-L29,6431.578967575758
+332,Huawei Dli-Al10,1445.5
+333,Huawei Dli-L22,4465.760638297872
+334,Huawei Dub-Lx1,43.6
+335,Huawei E180,160.0
+336,Huawei E3372,119.25
+337,Huawei E5180,14551.18735875968
+338,Huawei E5186S,8231.140121066308
+339,Huawei E5220S-2,9270.0
+340,Huawei E5372S-32,11613.0078400271
+341,Huawei E5573,15404.638521485975
+342,Huawei E5573B,12679.66015
+343,Huawei E5577,15256.647621555556
+344,Huawei E5577 E5577C,14319.962719298246
+345,Huawei E5776S-32,14948.041666666666
+346,Huawei E5785Lh-22C,13590.467261904761
+347,Huawei E5786S-32A Huawei E5786Bs-32A,19271.25
+348,Huawei E587 E587U-2 Turkcell Vinnwifi E587,11909.5
+349,Huawei E8372,29095.0
+350,Huawei Ele-L29,4907.724952818628
+351,Huawei Evr-Al00,707.3333333333334
+352,Huawei Evr-L29,39.0
+353,Huawei Fig-Al00,13444.875
+354,Huawei Fig-Al10,3394.5
+355,Huawei Fig-La1,41.5
+356,Huawei Fig-Lx1,3396.9009825781195
+357,Huawei Frd-Al10,6166.0
+358,Huawei Frd-L09,9285.172620092593
+359,Huawei Frd-L19,10628.0
+360,Huawei G535-L11,1052.0
+361,Huawei G8 Huawei Gx8 Huawei G7 Plus,3616.5
+362,Huawei Gr5,7013.0
+363,Huawei Gr5 2017 Huawei Mate 9 Lite,12657.0
+364,Huawei Ham-L09,28.5
+365,Huawei Hma-L29,8914.259853513957
+366,Huawei Honor,11069.338235294117
+367,Huawei Honor 10,5619.072412265625
+368,Huawei Honor 5X,9324.388888888889
+369,Huawei Honor 6,20033.0
+370,Huawei Honor 6C Dig-L21Hn,11601.5
+371,Huawei Honor 6X,9705.230358083334
+372,Huawei Honor 7A,6188.648684210526
+373,Huawei Honor 7S,6896.579166666667
+374,Huawei Honor 7X,3714.90963625
+375,Huawei Honor 8 Lite,10669.5
+376,Huawei Honor 8X,5033.852201019108
+377,Huawei Honor 9 Lite,3000.372555575
+378,Huawei Honor View10,7216.252192982455
+379,Huawei Hry-Lx1,4287.0625
+380,Huawei Hwi-Al00,32640.5
+381,Huawei Ine-Lx1,3033.876025
+382,Huawei Jat-L29,3309.3125
+383,Huawei Jkm-Lx1,9137.0
+384,Huawei Jmm-L22 Honor 6C Pro Honor 6C Pro,5711.9
+385,Huawei Jsn-Al00A,15681.0
+386,Huawei Lld-Al00,4673.022727272727
+387,Huawei Lld-Al10,199.625
+388,Huawei Lld-Al30,123.5
+389,Huawei Lnd-L29,16901.25
+390,Huawei Lya-L29,6311.147907025989
+391,Huawei Maimang 6,13257.0
+392,Huawei Mate 10 Lite Huawei Nova 2I,5602.364445793467
+393,Huawei Mate 10 Pro,3790.3470370512823
+394,Huawei Mate 10 Pro Porsche Design Huawei Mate 10,5899.52462377561
+395,Huawei Mate 20 Lite,5198.724855972222
+396,Huawei Mate 8,7917.444444444444
+397,Huawei Mate 9,3875.8494753359173
+398,Huawei Mate 9 Pro Porsche Design Huawei Mate 9,59.5
+399,Huawei Maya,2455.0
+400,Huawei Me909S-120,697.375
+401,Huawei Mrd-Lx1,2685.3592592592595
+402,Huawei Mu609,23.0
+403,Huawei Nexus 6P,240.0
+404,Huawei Nova,11090.096331587301
+405,Huawei Nova 2I Huawei Mate 10 Lite,23830.5
+406,Huawei Nova 3E,7241.398148148148
+407,Huawei Nova 3I,1968.25
+408,Huawei Nova 3I Huawei P Smart+,14172.0
+409,Huawei P Smart,4882.673076923077
+410,Huawei P10,4729.278487655771
+411,Huawei P10 Lite,4320.767335637497
+412,Huawei P10 Plus,4087.0625
+413,Huawei P20,5429.3817873222
+414,Huawei P20 Lite Huawei Nova 3E,3584.879511166024
+415,Huawei P20 Pro,5772.585766107306
+416,Huawei P8,13163.0
+417,Huawei P8 Lite,7622.74258357368
+418,Huawei P8Max,15920.5
+419,Huawei P9,4757.726511792453
+420,Huawei P9 Lite,7218.710831156648
+421,Huawei P9 Plus,28459.0
+422,Huawei Par-Lx9,24019.166666666668
+423,Huawei Pct-L29,4990.564909481482
+424,Huawei Pele,39190.5
+425,Huawei Plk-L01,11044.171875
+426,Huawei Porsche Design Huawei Mate Rs,36.5
+427,Huawei Pot-Lx1,3686.3815542398793
+428,Huawei Pra-Al00X,105.0
+429,Huawei Rvl-Al09,9836.0
+430,Huawei Sla-L22,4656.5
+431,Huawei Sne-Lx1,6206.474341055556
+432,Huawei Stf-Al00,4771.392857142857
+433,Huawei Stf-Al10,39.75
+434,Huawei Stf-L09,5224.979106304348
+435,Huawei Stf-Tl10,22628.5
+436,Huawei Tbd,2696.7430555555557
+437,Huawei Tit-Al00 Huawei Y6 Pro,6157.0
+438,Huawei U8815,185.0
+439,Huawei U8825-1,41.0
+440,Huawei Vns-Al00,923.5
+441,Huawei Vns-Dl00,22571.5
+442,Huawei Vog-L29,5704.230471401515
+443,Huawei Was-Al00,12355.583333333334
+444,Huawei Was-Tl10,1856.25
+445,Huawei Y3,616.35
+446,Huawei Y3Ii,4342.5
+447,Huawei Y5,1305.3
+448,Huawei Y5 2017,17892.25
+449,Huawei Y5 2018,4567.802380952381
+450,Huawei Y5 Prime 2018,3947.0
+451,Huawei Y5Ii,3626.432926829268
+452,Huawei Y6,196.0
+453,Huawei Y6 2017 Huawei Nova Young,5487.55
+454,Huawei Y6 2017 Huawei Nova Young Huawei Y5 2017,2914.625
+455,Huawei Y6 2018,2375.905259318949
+456,Huawei Y6 Prime 2018,33575.5
+457,Huawei Y6 Pro,2118.0
+458,Huawei Y6 Pro 2017 Huawei P9 Lite Mini,1095.5
+459,Huawei Y635,1611.2857142857142
+460,Huawei Y6Ii,5699.833333333333
+461,Huawei Y7,10356.75
+462,Huawei Y7 2018,2379.6599537037036
+463,Huawei Y7 Prime,4773.0
+464,Huawei Y7 Prime 2018,9674.25
+465,Huawei Y7 Prime 2018 Huawei Y7 Pro 2018,803.0
+466,Huawei Y9 2019,7241.022963333333
+467,Infinix Technolo. Hot 6,838.0
+468,Infinix Technolo. Infinix Hot Note,1514.0
+469,Infinix Technolo. Infinix Surf Bravo,2560.5
+470,Infinix Technolo. Note 3 Pro,5378.5
+471,Infinix Technolo. X511,1470.25
+472,Infocus Corporat. Infocus Vzh,2766.5
+473,Intermec Technol. Series 70 (Cn70 1000Cp01U) (Cn70E 1000Cp02U) (Ck70 1001Cp01U),97.5
+474,Itel Technology. S31,184.0
+475,Itel Technology. S33,4545.0
+476,Kapsys Smartvision Kapsys Smartvision By Kapsys Smartconnect,380.0
+477,Kapsys Smartvision2 Smartconnect2,191.25
+478,Kazam Mobile Lim. Kazam Trooper 451,13.0
+479,Kenxinda V7,1692.0
+480,Kenxinda Victor Vm-66 N6000 K6,1177.0
+481,Kiwip Technologi. Montre Telephone Connectee Kiwip,74.0
+482,Kook (Hong Kong). Teeno T600,3878.0
+483,Kvd Internationa. Doogee Mix,9010.833333333334
+484,Kvd Internationa. Doogee Mix Lite,6715.0
+485,Kvd Internationa. Doogee S30,448.5
+486,Kvd Internationa. Doogee S55,7.0
+487,Kvd Internationa. Doogee S55 Lite,25694.5
+488,Kvd Internationa. Doogee S60,6845.0
+489,Kvd Internationa. Doogee X10,566.0
+490,Kvd Internationa. Doogee X20,3566.8333333333335
+491,Kvd Internationa. Doogee X30,216.0
+492,Kvd Internationa. Doogee X5,195.0
+493,Kvd Internationa. Doogee X5 Max Pro,1156.5
+494,Kvd Internationa. Doogee X50,403.5
+495,Kvd Internationa. Doogee X60L,20111.5
+496,Kvd Internationa. Doogee Y6 C,12210.0
+497,Leagoo Intl Co. . Leagoo Lead 6 Lead 5 Lead 7,1808.0
+498,Leagoo Intl Co. . Leagoo T5,4934.0
+499,Lemobile Informa. Le X527,19351.0
+500,Lemobile Informa. Le X820,4889.5
+501,Lemobile Informa. Lex622,1149.5
+502,Lemobile Informa. Lex626,1127.5
+503,Lemobile Informa. Lex651,2165.5
+504,Lemobile Informa. Lex720,45.5
+505,Lenovo A6020A40,215.5
+506,Lenovo Al12415545,4910.5625
+507,Lenovo Al12492145,1638.1
+508,Lenovo Bl12416045,5148.2514352083335
+509,Lenovo D012064645,14208.25
+510,Lenovo Gl12494745,1692.6666666666667
+511,Lenovo K Pro,6077.75
+512,Lenovo K520,2295.5
+513,Lenovo K6,4106.5
+514,Lenovo Lc12988845,7331.633333333333
+515,Lenovo Lenovo A Plus Lenovo Vibe A Plus,2598.3333333333335
+516,Lenovo Lenovo A588T,410.5
+517,Lenovo Lenovo A6020A40,7318.833333333333
+518,Lenovo Lenovo B Lenovo Vibe B,12777.833333333334
+519,Lenovo Lenovo K50-T3S,570.5
+520,Lenovo Lenovo K52E78,2819.0
+521,Lenovo Moto C,1406.5
+522,Lenovo Moto C Plus Lc12988845,5209.0
+523,Lenovo Moto E,8245.0
+524,Lenovo Moto E (2Nd Gen) With 4G Lte St12406045,5704.3
+525,Lenovo Moto E (3Rd Gen) Ta12892945,680.0
+526,Lenovo Moto E (4Th Gen),975.75
+527,Lenovo Moto E Plus (4Th Gen),99.5
+528,Lenovo Moto E Plus (4Th Gen) Go12071045,5681.971153846154
+529,Lenovo Moto G,1942.25
+530,Lenovo Moto G (2Nd Generation) Xt1064 Ti12402745,40.5
+531,Lenovo Moto G (2Nd Generation) Xt1068 Indr000145,6057.0
+532,Lenovo Moto G (3Rd Gen),15374.0
+533,Lenovo Moto G (3Rd Gen) Ca12459445,7122.357142857143
+534,Lenovo Moto G (4Th Gen) Af12802745,5927.25
+535,Lenovo Moto G (5Th Gen S) D012081145,12081.833333333334
+536,Lenovo Moto G (5Th Gen) Da12936945,958.0
+537,Lenovo Moto G (5Th Gen) Da12984545,8843.42857142857
+538,Lenovo Moto G (5Th Gen) Da12985045,15212.0
+539,Lenovo Moto G (5Th Gen) Indr003546,8089.894736842105
+540,Lenovo Moto G Play (4Th Gen) Ju12738345,4226.0
+541,Lenovo Moto G Play (4Th Gen) Ju12797645,6888.4
+542,Lenovo Moto G Plus (4Th Gen) Af12802845,13561.9
+543,Lenovo Moto G Plus (5Th Gen) Co128983645,7586.0
+544,Lenovo Moto G Plus (5Th Gen) Co12984045,14936.75
+545,Lenovo Moto G With 4G Motorola M0Fa8,5409.0
+546,Lenovo Moto G Xt1032,4473.0
+547,Lenovo Moto X (2Nd Generation) X112360445,5212.5
+548,Lenovo Moto X (4Th Gen) Ib12266545,78.0
+549,Lenovo Moto X Play,5164.0
+550,Lenovo Moto X Play Lx12506245,5730.5
+551,Lenovo Moto X Style,11573.5
+552,Lenovo Moto X Style Indr001145,7189.5
+553,Lenovo Moto Z Force (2Nd Gen) Ge12072245,704.5
+554,Lenovo Moto Z Play (2Nd Gen) Ho12005845,4325.840987777778
+555,Lenovo Moto Z Play Vx12752445,18076.25
+556,Lenovo Moto Z Ve12657645,8713.5
+557,Lenovo Motorola Moto G (2Nd Generation) Xt1068 Ti12402545,868.5
+558,Lenovo Motorola Razr I Sm12334645 M0D12 Xt890,261.0
+559,Lenovo Nexus 6 Valocia,8159.0
+560,Lenovo P2 Ku12842445,11934.5625
+561,Lenovo Ro12524245,13165.833333333334
+562,Lenovo Sl12367645,6467.625
+563,Lenovo Xt1772,3486.25
+564,Lenovo Za12074545,6141.5
+565,Lephone U Pro,22834.5
+566,Lg C70,5746.25
+567,Lg Ck,241.5
+568,Lg G2,299.5
+569,Lg G3,17032.630740833334
+570,Lg G4,10153.5
+571,Lg G4C,10258.0
+572,Lg G6,15137.12457622222
+573,Lg G6+,7844.022963333333
+574,Lg Gt540,14.0
+575,Lg K10,25825.0
+576,Lg K10 2017,483.0
+577,Lg L Bello,5380.333333333333
+578,Lg L80,1615.5
+579,Lg Leon,381.5
+580,Lg Lg-D315,10.5
+581,Lg Lg-D620Fr,4499.0
+582,Lg Lg-D722,9675.0
+583,Lg Lg-E610,199.125
+584,Lg Lg-H635,12669.5
+585,Lg Lg-H818P,21224.714323333334
+586,Lg Lg-P700,178.5
+587,Lg Lg-T385,0.0
+588,Lg Lg-X145,245.5
+589,Lg Lm-G710Em,11183.0
+590,Lg Lm-X410Eow,333.0
+591,Lg Nexus 4 (E960),4731.25
+592,Lg Nexus 5,8609.2
+593,Lg Nexus 5X,7837.435132380952
+594,Lg Optimus L3 Lg-E400,152.0
+595,Lg Optimus L5 Ii,1055.3333333333333
+596,Lg V20,535.0
+597,Lg V30+,8601.0
+598,Lg X Power2,9522.0
+599,Lg-As330,347.5
+600,Lg-H410,1683.5
+601,Lg-H791,17913.0
+602,Lg-H791F,866.0
+603,Lg-H811,3120.0
+604,Lg-H815,15270.145833333334
+605,Lg-H850,12916.464285714286
+606,Lg-H860,21084.25
+607,Lg-H870Ds,7361.803580833333
+608,Lg-H870S,11287.75
+609,Lg-K100,7244.625
+610,Lg-K100Ds,5295.5
+611,Lg-K120E,6100.75
+612,Lg-K350Nds,4551.0
+613,Lg-K420N,5208.5
+614,Lg-K430Ds,790.5
+615,Lg-K520,4318.0
+616,Lg-K600Y,8448.5
+617,Lg-M160,2267.5
+618,Lg-M200N,7974.0
+619,Lg-M320N,13187.5
+620,Lg-M400Dy,2614.5
+621,Lg-X210,652.5
+622,Lg-X210Ds,3963.0
+623,Lg-X230Fv,7073.0
+624,Lgms631,6530.0
+625,Lidaxin Technolo. Glida Be09,4061.75
+626,Lidaxin Technolo. My81,2380.0
+627,Logicom Sa Id Bot 54,245.5
+628,Logicom Sa L-Egant One,5481.0
+629,Logicom Sa L-Ement 400,206.0
+630,Logicom Sa L-Ement 403,2243.4444444444443
+631,Logicom Sa L-Ement 505 T580,3912.5
+632,Logicom Sa L-Ement 551,8525.5
+633,Logicom Sa L-Ement 553,717.0
+634,Logicom Sa L-Ite 400M,4004.25
+635,Logicom Sa L-Ite 504Hd,12712.0
+636,Logicom Sa L-Ite 552,7231.333333333333
+637,Logicom Sa Le Hello,3749.6
+638,Logicom Sa Le Lift,240.0
+639,Logicom Sa Le Must,23.0
+640,Logicom Sa Le Smooth,3648.25
+641,Logicom Sa Le Up,4837.0
+642,Logicom Sa Logicom B Bot 50,869.0
+643,Logicom Sa Logicom Id Bot 53+,368.5
+644,Logicom Sa Logicom Id Bot 553+,230.0
+645,Logicom Sa Logicom Le Moov,1223.5
+646,Logicom Sa Logicom Power Bot,102.0
+647,Logicom Sa Logicom Vr Bot 552+,5269.0
+648,Logicom Sa M Bot 60,2454.1666666666665
+649,M S Soha Enterp. Qphone Q70,4723.5
+650,Maysun Info Tech. M4028,5931.0
+651,Maysun Info Tech. M5026,653.0
+652,Maysun Info Tech. M5046,76.5
+653,Maysun Info Tech. Maysunm Mid5702,150.0
+654,Meizu Technology. M3 Note,12648.0
+655,Meizu Technology. M5,3344.5
+656,Meizu Technology. M5 Note,22035.75
+657,Meizu Technology. M5C,648.5
+658,Meizu Technology. M6 Note,1926.5
+659,Meizu Technology. Meizu U20,9721.0
+660,Meizu Technology. Mx5 Pro,17.0
+661,Meizu Technology. Mx6,5843.0
+662,Meizu Technology. Pro 5,193.5
+663,Meizu Technology. Pro 6 Plus,3459.5
+664,Meizu Technology. Pro 6S,2716.0
+665,Meizu Technology. Pro 7,4874.0
+666,Microsoft Mobile. Microsoft Rm-1071 Microsoft Lumia 435,270.5
+667,Microsoft Mobile. Microsoft Rm-1075 Microsoft Lumia 640 Lte Dual Sim,3795.6153846153848
+668,Microsoft Mobile. Microsoft Rm-1089 Microsoft Lumia 535,1727.5
+669,Microsoft Mobile. Microsoft Rm-1090 Microsoft Lumia 535 Dual Sim,278.5
+670,Microsoft Mobile. Microsoft Rm-1099 Microsoft Lumia 435 Dual Sim,1181.7
+671,Microsoft Mobile. Nokia Lumia 530 Dual Sim Rm-1019,1181.15
+672,Microsoft Mobile. Nokia Lumia 530 Rm-1017,159.5
+673,Microsoft Mobile. Nokia Lumia 630 Dual Sim Rm-978,342.5
+674,Microsoft Mobile. Nokia Lumia 630 Rm-976,285.3333333333333
+675,Microsoft Mobile. Nokia Lumia 635 Rm-974,603.4166666666666
+676,Microsoft Mobile. Nokia Rm-1034 Microsoft Lumia 532,2158.2
+677,Microsoft Mobile. Nokia Rm-974 Nokia Lumia 635,303.5
+678,Microsoft Mobile. Rm-1011 Nokia 225 Dual Sim,301.0
+679,Microsoft Mobile. Rm-1062 Lumia 640 Xl Lte,2658.0
+680,Microsoft Mobile. Rm-1065 Lumia 640 Xl Lte Dual Sim,1209.3
+681,Microsoft Mobile. Rm-1072 Lumia 640 Lte,2884.090909090909
+682,Microsoft Mobile. Rm-1072 Microsoft Lumia 640 Lte,3642.9
+683,Microsoft Mobile. Rm-1085 Microsoft Lumia 950 Xl,7642.5
+684,Microsoft Mobile. Rm-1089 Microsoft Lumia 535,788.5
+685,Microsoft Mobile. Rm-1090 Microsoft Lumia 535 Dual Sim,505.85
+686,Microsoft Mobile. Rm-1104 Microsoft Lumia 950,5556.083333333333
+687,Microsoft Mobile. Rm-1116 Microsoft Lumia 950 Xl,577.5
+688,Microsoft Mobile. Rm-1118 Microsoft Lumia 950,149.5
+689,Microsoft Mobile. Rm-1127 Microsoft Lumia 550,3128.76
+690,Microsoft Mobile. Rm-1152 Microsoft Lumia 650,3654.5625
+691,Microsoft Mobile. Rm-1154 Microsoft Lumia 650 Dual Sim,1145.125
+692,Mikrotikls Sia R11E-Lte,136.0
+693,Mobiwire Sas Mobiwire Auriga,4.5
+694,Modelabs Clap Plus 2,3385.425
+695,Modelabs Horizon M,6384.5
+696,Mptech Hammer Energy 18X9,81.5
+697,Mundo Reader S.L. Aquaris U2 16+2,19452.0
+698,Neel Enterprise Kolor Crosscall Odyssey,1213.5
+699,Neel Enterprise Kolor Crosscall Trekker-X1,7964.0
+700,Neel Enterprise Kolor Crosscalltrekker-X2,11532.833333333334
+701,Netgear Inc Aircard 810S,8686.847457333333
+702,Netgear Inc Netgear Ac785S-100,6851.5
+703,Netgear Inc Nighthawk Ac1900 Cat 6 Lte Gateway,4334.0
+704,New-Bund Technol. Mix 2,6921.022963333333
+705,New-Bund Technol. Thor,32304.928580833333
+706,Nokia 1661-2 1661,7837.5
+707,Nokia 520 Lumia 520 Nokia 520,819.8557692307693
+708,Nokia 610 Nokia 610,151.25
+709,Nokia 620 Lumia 620 Nokia 620,1021.5
+710,Nokia 625 Lumia 625,341.5
+711,Nokia 800 Nokia 800,1443.5
+712,Nokia 820.1 Lumia 820,390.0
+713,Nokia 920.1 Lumia 920,88.0
+714,Nokia 920.1 Lumia 920 Rm-821,4276.666666666667
+715,Nokia 925.1 925.4 Lumia 925 Nokia 925,4247.5
+716,Nokia Lumia 1020,581.5
+717,Nokia Lumia 520 Nokia 520,220.75
+718,Nokia Lumia 630 Dual Sim Rm-978,826.5
+719,Nokia Lumia 635 Rm-974,941.5714285714286
+720,Nokia Lumia 635 Rm-975,32.5
+721,Nokia Lumia 925 Lumia 925,18801.5
+722,Nokia N8-00,13.5
+723,Nokia Rm-1017 530 Lumia 530,742.2857142857143
+724,Nokia Rm-1019 Lumia 530 Dual Sim,267.0
+725,Nokia Rm-1038 Nokia Lumia 735,1356.909090909091
+726,Nokia Rm-1045 Lumia 930 Nokia 930,282.5
+727,Nokia Rm-1089 Lumia 535 Microsoft Lumia 535,227.66666666666666
+728,Nokia Rm-1090 Lumia 535 Dual Sim Microsoft Lumia 535 Dual Sim,1740.75
+729,Nokia Rm-1091 Lumia 535 Microsoft Lumia 535,2991.5
+730,Nokia Rm-914 520 Lumia 520 Nokia 520,344.5
+731,Nokia Rm-941 625 Lumia 625,349.0
+732,Nokia Rm-941 Nokia 625 Lumia 625,4070.625
+733,Nokia Rm-976 Lumia 630,373.0
+734,Nokia Rm-980 Nokia X,12.5
+735,Nokia Rm-984 Lumia 830 Nokia 830,2894.6428571428573
+736,Nokia Rm-998 525 Lumia 525 Nokia 525,484.25
+737,Nokia Test Imei,175.5
+738,Nokia X,151.5
+739,Nubia Technology. M2 Play,17282.5
+740,Nubia Technology. Nx569H,4615.5
+741,Nubia Technology. Z17 Mini,11582.0
+742,Nubia Technology. Z17S,7614.25
+743,Oneplus Technolo. One A0001,5248.5
+744,Oneplus Technolo. One A1001 Oneplus A0001 One A0001,15704.053580833333
+745,Oneplus Technolo. One A2003,18529.5
+746,Oneplus Technolo. One E1003,2050.75
+747,Oneplus Technolo. Oneplus 3,11956.384615384615
+748,Oneplus Technolo. Oneplus 3T,10610.772727272728
+749,Oneplus Technolo. Oneplus 5,16973.65331156863
+750,Oneplus Technolo. Oneplus 5T,15921.034814901961
+751,Oneplus Technolo. Oneplus 6,11286.187247137681
+752,Oneplus Technolo. Oneplus 6T,8849.256405697464
+753,Oneplus Technolo. Oneplus A3000,5342.5
+754,Oneplus Technolo. Oneplus A3003,11936.6
+755,Oneplus Technolo. Oneplus5T,10784.369535714286
+756,Oppo 1201,2176.0
+757,Oppo A1601,5723.3
+758,Oppo A33F,17461.0
+759,Oppo A37F,15050.5
+760,Oppo A37Fw,5466.0
+761,Oppo Cph1609,12289.991080833333
+762,Oppo Cph1701,26168.214323333334
+763,Oppo Cph1723,35334.0
+764,Oppo Cph1725,6303.5
+765,Oppo Cph1729,301.5
+766,Oppo Cph1821,1002.0
+767,Oppo Cph1837,18101.0
+768,Oppo Cph1877,26955.857161666667
+769,Oppo Cph1893,6705.904592666668
+770,Oppo Cph1903,9670.0
+771,Oppo F1F,9623.5
+772,Oppo Pacm00,894.0
+773,Oppo Pbam00,1811.5
+774,Oppo R11S,2.5
+775,Option Nv Option Gtm661W Globesurfer Iii+,10.0
+776,Orbita Telecom L. Konrow,3453.4545454545455
+777,Ovvi-Cellphone T. Echo,32352.714323333334
+778,Pacific Co (Bd). Nexus Nx14 Nx15 Nx65 Nx66 Nx8,316.1666666666667
+779,Power Idea Techn. Rg160,56.0
+780,Power Idea Techn. Rg310,141.5
+781,Power Idea Techn. Rg730 Md501 D1,301.0
+782,Power Idea Techn. Ruggear Rg230 Ruggear Rg500 I.Safe Innovation2.0,43.0
+783,Pt. Arga Mas Les. Advan S35D,236.5
+784,Qingdao Hisense. Cmb510,940.0
+785,Qingdao Hisense. Hisense C20,8391.0
+786,Qingdao Hisense. Hisense F17,2248.0
+787,Qingdao Hisense. Hisense F17 Pro,4329.625
+788,Qingdao Hisense. Hisense F20,1328.0
+789,Qingdao Hisense. Hisense F23,8688.674321111112
+790,Qingdao Hisense. Hisense F24,8050.0
+791,Qingdao Hisense. Hisense F31,8307.25
+792,Qingdao Hisense. Hisense L675,3818.75
+793,Qingdao Hisense. Hisense L830,217.0
+794,Qingdao Hisense. Hs-U606 Starshine 4 Hs-U961 U602 Hs-U601,180.0
+795,Qingdao Hisense. Hs-U609 Hisense I500U Hisense E260U Hs-U607 Hs-U980 Pure 1 Eco,820.3333333333334
+796,Qingdao Hisense. S41,12201.25
+797,Qingdao Hisense. Staraddict 6,399.0
+798,Qingdao Hisense. Starxtrem 6,349.0
+799,Quanta 1Kg,475.5
+800,Quartel Infotech. Maximus M84,3470.0
+801,Quectel Wireless. Quectel Ec21-E,1.0
+802,Quectel Wireless. Quectel Ec25-E,0.5
+803,Quectel Wireless. Quectel M10,12.0
+804,Rainbow Communic. C45,3192.5
+805,Razer Inc Razer Phone,15033.5
+806,Razer Inc Razer Phone 2,8666.5
+807,Rim 8520,1.5
+808,Rim 9000 (At&T),38.5
+809,Rim 9780 Rcm72Uw Rcm73Uw (Fdd I Ii V Vi) (Generic),1.5
+810,Rim Blackberry (Q5),2751.0
+811,Rim Blackberry 8520,1.75
+812,Rim Blackberry 9300,2.0
+813,Rim Blackberry 9320,1.875
+814,Rim Blackberry 9360,1.5
+815,Rim Blackberry 9720,1.5
+816,Rim Blackberry 9790,1.5
+817,Rim Blackberry 9800,1.5
+818,Rim Blackberry 9860,2.0
+819,Rim Blackberry 9900,2.75
+820,Rim Blackberry Passport Sqw100-1 Rgy181Lw,329.375
+821,Rim Blackberry Rhd131Lw (Str100-1),1360.25
+822,Rim Blackberry Rhm181Lw (Stv100-4),24.5
+823,Rim Blackberry Sqc100-1 Rhh151Lw,3618.0
+824,Rim Blackberry Sqc100-4 Rhg161Lw,33.0
+825,Rim Blackberry Sqn100-3 Q10 Rfn81Uw,2425.375
+826,Rim Blackberry Sta100-2 Z30 Rfw121Lw,212.0
+827,Rim Blackberry Stl100-1 Z10 Rfg81Uw,2213.5
+828,Rim Blackberry Stl100-2 Z10 Rfh121Lw,3736.125
+829,Rim Pearl 8100,2.0
+830,Samsung 2018 Galaxy J4,8522.833333333334
+831,Samsung Galaxy A3 (Sm-A300X),5540.052197802198
+832,Samsung Galaxy A3 (Sm-A310X),7026.997215509499
+833,Samsung Galaxy A3 (Sm-A320),2629.2165106630328
+834,Samsung Galaxy A5 (Sm-A500X),4496.125
+835,Samsung Galaxy A5 (Sm-A510X),8492.057724305556
+836,Samsung Galaxy A5 Sm-A520F,3366.996631101665
+837,Samsung Galaxy A5 Sm-A520F Ds,13334.45
+838,Samsung Galaxy A6,3213.5601851851848
+839,Samsung Galaxy A6 (Sm-A605F),17928.0
+840,Samsung Galaxy A6 (Sm-A605Fn),3373.1901496858463
+841,Samsung Galaxy A6 Duos (Sm-A605G Ds),21476.0
+842,Samsung Galaxy A6 Sm-A600Fn Ds,3327.1811378747575
+843,Samsung Galaxy A7 (Sm-A700X),9090.0
+844,Samsung Galaxy A7 (Sm-A710X),19500.5
+845,Samsung Galaxy A7 (Sm-A730F),21047.0
+846,Samsung Galaxy A7 2018,4544.176953149264
+847,Samsung Galaxy A7 Sm-A720F Ds,13446.0
+848,Samsung Galaxy A8 (2018),3397.2009436410476
+849,Samsung Galaxy A9 2018,10698.042864666666
+850,Samsung Galaxy Ace (Gt-S5830),484.4107142857143
+851,Samsung Galaxy Ace (Gt-S5839I),222.8
+852,Samsung Galaxy Ace 2 (Gt-I8160),1878.9
+853,Samsung Galaxy Ace 3 (Gt-S7275),490.9
+854,Samsung Galaxy Alpha (Sm-G850X),4242.866666666667
+855,Samsung Galaxy C5 (Sm-C500X),21094.0
+856,Samsung Galaxy Core 2 (Sm-G355X),2117.0
+857,Samsung Galaxy Core Prime (Sm-G360X),4526.552083333333
+858,Samsung Galaxy Core Prime (Sm-G361F),3993.9206349206347
+859,Samsung Galaxy Express Gt-I8730,5679.5
+860,Samsung Galaxy Grand (Gt-I9060X),2500.1486486486488
+861,Samsung Galaxy Grand 2 (Sm-G7105),7579.2
+862,Samsung Galaxy Grand Prime (Sm-G530F),4075.8423939891977
+863,Samsung Galaxy Grand Prime (Sm-G530X),8909.59693877551
+864,Samsung Galaxy Grand Prime Ve (Sm-G531X),4917.504221121212
+865,Samsung Galaxy J1 (Sm-J100X),748.4615384615385
+866,Samsung Galaxy J1 (Sm-J120X),4796.615384615385
+867,Samsung Galaxy J1 Ace (Sm-J111X),10702.404774444445
+868,Samsung Galaxy J1 Mini (Sm-J105X),1397.125
+869,Samsung Galaxy J1 Mini Prime (Sm-J106B),4430.0
+870,Samsung Galaxy J1 Pop (Sm-J110X),347.25
+871,Samsung Galaxy J2,10204.291666666666
+872,Samsung Galaxy J2 (Sm-J200X),1120.25
+873,Samsung Galaxy J2 2018 Duos (Sm-J250F Ds),4450.5
+874,Samsung Galaxy J2 Core Sm-J260F Ds,7926.5
+875,Samsung Galaxy J2 Prime (Sm-G532),6641.647621555556
+876,Samsung Galaxy J3 (Sm-J320X),4688.4187455404535
+877,Samsung Galaxy J3 (Sm-J327),408.5
+878,Samsung Galaxy J3 (Sm-J330),2033.6246403530122
+879,Samsung Galaxy J3 (Sm-J330G Ds),9679.285714285714
+880,Samsung Galaxy J4,8664.5
+881,Samsung Galaxy J4 Core,3067.75
+882,Samsung Galaxy J4+,3650.8
+883,Samsung Galaxy J5,7193.880740833333
+884,Samsung Galaxy J5 (Sm-J500X),7558.262363119658
+885,Samsung Galaxy J5 (Sm-J510X),7707.669030305344
+886,Samsung Galaxy J5 (Sm-J530),1625.663462904338
+887,Samsung Galaxy J5 Prime Dual-Sim (Sm-G570F Ds),6390.5
+888,Samsung Galaxy J6,2830.0988335107036
+889,Samsung Galaxy J6+,2772.1074950690336
+890,Samsung Galaxy J7,3630.257494368055
+891,Samsung Galaxy J7 (Sm-J700X),3702.5
+892,Samsung Galaxy J7 (Sm-J701F Ds),6180.670332564103
+893,Samsung Galaxy J7 (Sm-J701F),10951.0
+894,Samsung Galaxy J7 (Sm-J710X),8612.578366690646
+895,Samsung Galaxy J7 (Sm-J730),3251.351689154762
+896,Samsung Galaxy J7 Prime (On7) Duos (Sm-G6100),12347.0
+897,Samsung Galaxy J7 Prime Duos (Sm-G610F Dd),13843.125
+898,Samsung Galaxy J7 Prime Duos (Sm-G610F Ds),5645.888888888889
+899,Samsung Galaxy J8 2018,16419.5
+900,Samsung Galaxy K Zoom Sm-C111,7478.5
+901,Samsung Galaxy Mega (Gt-I9205),10055.0
+902,Samsung Galaxy Mega Duos (Gt-I9152),8737.0
+903,Samsung Galaxy Mini (Gt-S5570),382.4
+904,Samsung Galaxy Mobile (E.G. A3Lschi535),6476.0
+905,Samsung Galaxy Note (Gt-N7000),1582.0833333333333
+906,Samsung Galaxy Note 2,1768.0
+907,Samsung Galaxy Note 2 (Gt-N7100),2491.0
+908,Samsung Galaxy Note 2 (Gt-N7105),11346.5
+909,Samsung Galaxy Note 3 (Sm-N9002),2010.5
+910,Samsung Galaxy Note 3 (Sm-N9005),7175.365384615385
+911,Samsung Galaxy Note 3 (Sm-N900X),405.5
+912,Samsung Galaxy Note 4 (Sm-N910X),10021.122511300813
+913,Samsung Galaxy Note 5 (Sm-N920X),12128.125
+914,Samsung Galaxy Note 8,4555.615384615385
+915,Samsung Galaxy Note 8 (Sm-N9500),134.0
+916,Samsung Galaxy Note 8 (Sm-N950F Ds),2892.596702685185
+917,Samsung Galaxy Note 8 (Sm-N950F),5563.222273706333
+918,Samsung Galaxy Note 8 (Sm-N950U),2.5
+919,Samsung Galaxy Note 9,11671.75
+920,Samsung Galaxy Note Edge (Sm-N915X),4693.5
+921,Samsung Galaxy Note5 (A3Lsmn920P),1753.5
+922,Samsung Galaxy Note9,4571.908035827226
+923,Samsung Galaxy On 7,24917.5
+924,Samsung Galaxy On5 (Sm-G550X),393.5
+925,Samsung Galaxy Pocket Gt-S5301,127.5
+926,Samsung Galaxy S (Gt-I9000),399.625
+927,Samsung Galaxy S10,5412.866969782673
+928,Samsung Galaxy S2 (Gt-I9100),1167.8809523809523
+929,Samsung Galaxy S3 (Gt-I9300),2312.9
+930,Samsung Galaxy S3 (Gt-I9305),3615.4166666666665
+931,Samsung Galaxy S3 Mini (Gt-I8190),1102.0277777777778
+932,Samsung Galaxy S3 Mini Ve(Gt-I8200X),660.0
+933,Samsung Galaxy S3 Neo(Gt-I9301X),1887.125
+934,Samsung Galaxy S4 (Gt-I9500),5220.0
+935,Samsung Galaxy S4 (Gt-I9505),7220.661621407407
+936,Samsung Galaxy S4 (Gt-I9515),8859.25
+937,Samsung Galaxy S4 (Sgh-I337M),91.0
+938,Samsung Galaxy S4 Active Gt-I9295,20121.0
+939,Samsung Galaxy S4 Advance (Gt-I9506),7507.5
+940,Samsung Galaxy S4 Mini (Gt-I9195),4237.918
+941,Samsung Galaxy S5 (Sm-G900F),7442.307882097702
+942,Samsung Galaxy S5 (Sm-G900W8),8688.5
+943,Samsung Galaxy S5 (Sm-G900X),2378.6
+944,Samsung Galaxy S5 Lte-A (Sm-G901X),8146.020664266667
+945,Samsung Galaxy S5 Mini (Sm-G800X),5453.473214285715
+946,Samsung Galaxy S5 Neo (Sm-G903),11514.128005555556
+947,Samsung Galaxy S6 (A3Lsmg920P),6108.75
+948,Samsung Galaxy S6 (Sm-G920X),4321.8807339125215
+949,Samsung Galaxy S6 Edge (Sm-G925X),4411.843723152516
+950,Samsung Galaxy S6 Plus (Sm-G928),4513.491908776042
+951,Samsung Galaxy S7 (Sm-G930X),4240.723013498823
+952,Samsung Galaxy S7 Edge (Sm-G935X),4815.9644993364955
+953,Samsung Galaxy S8 (Sm-G950F),5094.951536312816
+954,Samsung Galaxy S8 (Sm-G950Fd),5223.485003827161
+955,Samsung Galaxy S8 (Sm-G950U),5411.666666666667
+956,Samsung Galaxy S8 Edge (Sm-G955U),6970.75
+957,Samsung Galaxy S8 Plus (Sm-G955F),5176.372334971782
+958,Samsung Galaxy S8 Plus (Sm-G955Fd),4952.077397945907
+959,Samsung Galaxy S9,4839.9153688038505
+960,Samsung Galaxy S9 Plus (Sm-G965F),4915.508416520328
+961,Samsung Galaxy S9 Sm-G960F,12320.966666666667
+962,Samsung Galaxy S9 Sm-G960F Ds,5431.842079919653
+963,Samsung Galaxy S9 Sm-G960N,22177.5
+964,Samsung Galaxy S9+,33691.5
+965,Samsung Galaxy Tab A (Sm-T285),11088.875
+966,Samsung Galaxy Tab A (Sm-T555),11988.507654444446
+967,Samsung Galaxy Tab A (Sm-T585),6482.375
+968,Samsung Galaxy Tab A2 Xl,366.0
+969,Samsung Galaxy Tab Active Sm-T365,6346.5
+970,Samsung Galaxy Tab E (Sm-T561),4606.5
+971,Samsung Galaxy Tab S2 (Sm-T719),14435.333333333334
+972,Samsung Galaxy Tab S3 (Sm-T825),12872.4375
+973,Samsung Galaxy Trend (Gt-S7560),452.328125
+974,Samsung Galaxy Trend Lite (Gt-S7390),1100.9655172413793
+975,Samsung Galaxy Trend Lite 2 (Sm-G318X),1222.7254901960785
+976,Samsung Galaxy Trend Plus (Gt-S7580),2447.0
+977,Samsung Galaxy Wave 2 (Gt-S8530),11.5
+978,Samsung Galaxy Wave Y (Gt-S5380),2.0
+979,Samsung Galaxy Xcover 2 Gt-S7710,244.0
+980,Samsung Galaxy Xcover2 Gt-S7710,3240.0
+981,Samsung Galaxy Xcover4 Sm-G390F,2287.275438596491
+982,Samsung Galaxy Y,13.666666666666666
+983,Samsung Galaxy Y (Gt-S5360),38.35294117647059
+984,Samsung Galaxy Y (Gt-S5369),38.5
+985,Samsung Galaxy Young (Gt-S5310),1778.5
+986,Samsung Google Nexus (Gt-I9250),2111.0
+987,Samsung Gt-B3210C,226.0
+988,Samsung Gt-B5510,26.5
+989,Samsung Gt-C3590,82.0
+990,Samsung Gt-I5500,22.0
+991,Samsung Gt-I5510,21.0
+992,Samsung Gt-I5700,20.0
+993,Samsung Gt-I5800,39.375
+994,Samsung Gt-I8260,1453.5
+995,Samsung Gt-I8700,121.0
+996,Samsung Gt-I8730,2185.9
+997,Samsung Gt-I9003,92.25
+998,Samsung Gt-I9105,133.5
+999,Samsung Gt-I9105P,259.5
+1000,Samsung Gt-P5220,20438.5
+1001,Samsung Gt-S5280,19.0
+1002,Samsung Gt-S5660,18.25
+1003,Samsung Gt-S5690,271.0
+1004,Samsung Gt-S6310N,1.0
+1005,Samsung Gt-S6790N,36.75
+1006,Samsung Metro 350,303.5
+1007,Samsung Sm-G110H,526.5714285714286
+1008,Samsung Sm-G350,1623.2727272727273
+1009,Samsung Sm-G357Fz,4482.240909090909
+1010,Samsung Sm-G386F,2384.0416666666665
+1011,Samsung Sm-G389F,2097.7385054509805
+1012,Samsung Sm-G390F,1191.3590303334447
+1013,Samsung Sm-J106H Ds,3038.5454545454545
+1014,Samsung Sm-J250Y Ds,4824.647916666667
+1015,Samsung Sm-N7505,7416.285714285715
+1016,Samsung Sm-T235,161.5
+1017,Samsung Sm-T819,4988.125
+1018,Samsung Xcover 3 (Sm-G388X),3603.1876868536588
+1019,Sdt Electronica Startrail 8,4065.5
+1020,Sentar Wireless. Sentar V80,48.75
+1021,Sfr Altice S11,851.25
+1022,Sfr Altice S21,367.0
+1023,Sfr Altice S61,10603.75
+1024,Sfr Star Trail 5 By Sfr,3944.25
+1025,Sfr Starshine 5,2969.375
+1026,Sfr Startrail 6,1316.5
+1027,Sfr Starxtrem5,46.0
+1028,Sfr Starxtrem7,7534.5
+1029,Shanghai Chengyu. Pp6000,16011.5
+1030,Shenzhen Boway E. Boway Boway U11,6095.5
+1031,Shenzhen Chainwa. C70,21298.5
+1032,Shenzhen City Ra. Mos1,11401.5
+1033,Shenzhen Diadem. Liquid Z6,255.0
+1034,Shenzhen Fortune. M-Ppas6,7243.0
+1035,Shenzhen Fortune. Nh001,2463.8333333333335
+1036,Shenzhen Fortune. Ss5804G,3936.5
+1037,Shenzhen Fortune. X8610,1034.25
+1038,Shenzhen Gaoxinq. Gaoxinqi Et110,3.5
+1039,Shenzhen Guowei. V6304,52.5
+1040,Shenzhen Huadoo. Huadoo Hg03,1196.5
+1041,Shenzhen Huanuo. B2803,12191.333333333334
+1042,Shenzhen Jeko Co. Blackview A20,2644.5
+1043,Shenzhen Jeko Co. Blackview A20 Pro,62.0
+1044,Shenzhen Jeko Co. Blackview A7,5088.833333333333
+1045,Shenzhen Jeko Co. Blackview Bv4000,6713.5
+1046,Shenzhen Jeko Co. Blackview Bv5000,3412.0
+1047,Shenzhen Jeko Co. Blackview Bv5800,191.5
+1048,Shenzhen Jeko Co. Blackview Bv5800 Pro,25.5
+1049,Shenzhen Jeko Co. Blackview Bv6000,1117.5
+1050,Shenzhen Jeko Co. Blackview Bv7000,5128.505740833333
+1051,Shenzhen Jeko Co. Blackview Bv8000 Pro,7627.5
+1052,Shenzhen Jeko Co. Blackview Bv9000 Pro,10059.75
+1053,Shenzhen Jeko Co. Blackview P10000Pro,906.0
+1054,Shenzhen Jeko Co. Blackview S8,1302.8333333333333
+1055,Shenzhen Jsr Tec. Innos K502,3349.0
+1056,Shenzhen Kdi Com. D58,21.3
+1057,Shenzhen Kelly T. Kliton Kailitong F168,132.5
+1058,Shenzhen Leagoo. Leagoo M9 Pro,10841.0
+1059,Shenzhen Leagoo. Leagoo S8,38054.0
+1060,Shenzhen Malata Liger 81G Smb-E1002 Smb-E8001,1873.5
+1061,Shenzhen New Cha. Cb358,9.5
+1062,Shenzhen Sprocom. Fly Iq4490,24.0
+1063,Shenzhen Xin Kin. V1600,7967.0
+1064,Shenzhen Xin Kin. V18H,389.5
+1065,Shenzhen Yiqingt. Yqt1213,6.0
+1066,Sierra Wireless Airprime Q2687,35.5
+1067,Sierra Wireless Hilo3G 900,25.0
+1068,Sierra Wireless Hl6528Rd-2.8V,2.75
+1069,Sierra Wireless Mc7710,1248.8393233333331
+1070,Sierra Wireless Mc8355,8733.5
+1071,Sierra Wireless Usb305,8416.25
+1072,Simcom Wireless. Sim800H,4.0
+1073,Simcom Wireless. Sim900,3.8333333333333335
+1074,Simcom Wireless. Simcom Sim900,2.5
+1075,Sintave Technolo. Sintave S1000,5048.0
+1076,Sonaki Corporati. Crown Japan Cr-Mp3019,569.3571428571429
+1077,Sonim Technologi. Sonim Xp7,155.0
+1078,Sony Ericsson E15I,3.5
+1079,Sony Ericsson Lt15I,37.5
+1080,Sony Ericsson Lt15I (Aad-3880097-Bv),695.0
+1081,Sony Ericsson Lt18I,667.4166666666666
+1082,Sony Ericsson Mt27I - Xperia Sola,41.5
+1083,Sony Ericsson Sk17I,27.0
+1084,Sony Ericsson St17I,152.5
+1085,Sony Ericsson St18I,3.5
+1086,Sony Ericsson St25I - Xperia U,134.0
+1087,Sony Ericsson St25I Xperia U,263.25
+1088,Sony Ericsson U20I (Aad-3880072-Bv),28.0
+1089,Sony Mobile Comm. Pm-0951-Bv,544.5
+1090,Sony Mobile Comm. Pm-0953-Bv,532.25
+1091,Sony Mobile Comm. Pm-1150-Bv,7026.604399621211
+1092,Sony Mobile Comm. Pm-1151-Bv,4314.333333333333
+1093,Sony Mobile Comm. Pm-1162-Bv,10443.833333333334
+1094,Sony Mobile Comm. Pm-1164-Bv,9487.646551724138
+1095,Sony Mobile Comm. Pm-1181-Bv,7604.711538461538
+1096,Sony Mobile Comm. Pm-1190-Bv,8528.303580833333
+1097,Sony Mobile Comm. Pm-1201-Bv,52.0
+1098,Sony Mobile Comm. Sony C1505 - Xperia E,1343.5
+1099,Sony Mobile Comm. Sony C5303 -Xperia Sp,2274.0
+1100,Sony Mobile Comm. Sony C6802 Xl39H,7752.5
+1101,Sony Mobile Comm. Sony D2105,2933.5
+1102,Sony Mobile Comm. Sony D2303 - Xperia M2,3381.0
+1103,Sony Mobile Comm. Sony Lt30P,3409.5
+1104,Sony Mobile Comm. Sony St21I Xperia Tipo,35.5
+1105,Sony Mobile Comm. Sony St26I,4011.0
+1106,Sony Mobile Comm. Sony Xperia M2,2577.222222222222
+1107,Sony Mobile Comm. Sony Xperia Z (C6603),17818.0
+1108,Sony Mobile Comm. Sony Xperia Z1 (C6903),221.75
+1109,Sony Mobile Comm. Sony Xperia Z1 Compact (D5503),1659.5
+1110,Sony Mobile Comm. Sony Xperia Z2 (D6503),7769.5
+1111,Sony Mobile Comm. Sony Xperia Z3,14783.5
+1112,Sony Mobile Comm. Xperia C4 Dual,6582.5
+1113,Sony Mobile Comm. Xperia E3,1862.3333333333333
+1114,Sony Mobile Comm. Xperia E4,2715.5
+1115,Sony Mobile Comm. Xperia E4G,599.0
+1116,Sony Mobile Comm. Xperia E4G Dual,6405.5
+1117,Sony Mobile Comm. Xperia E5,6381.6122448979595
+1118,Sony Mobile Comm. Xperia L1,6731.47979372807
+1119,Sony Mobile Comm. Xperia L2,2068.5
+1120,Sony Mobile Comm. Xperia M2 Dual,293.5
+1121,Sony Mobile Comm. Xperia M4 Aqua,8884.875
+1122,Sony Mobile Comm. Xperia M4 Aqua Dual,1219.125
+1123,Sony Mobile Comm. Xperia M5,2986.5
+1124,Sony Mobile Comm. Xperia M5 Dual,173.0
+1125,Sony Mobile Comm. Xperia T3,975.1388888888889
+1126,Sony Mobile Comm. Xperia X,11356.452353655915
+1127,Sony Mobile Comm. Xperia X Compact,10792.333333333334
+1128,Sony Mobile Comm. Xperia X Performance Dual,4319.5
+1129,Sony Mobile Comm. Xperia Xa,7506.293185190476
+1130,Sony Mobile Comm. Xperia Xa Ultra,9389.25
+1131,Sony Mobile Comm. Xperia Xa1,7664.564463512821
+1132,Sony Mobile Comm. Xperia Xa1 Plus,5587.875
+1133,Sony Mobile Comm. Xperia Xa1 Ultra,8882.487290504385
+1134,Sony Mobile Comm. Xperia Xa2,6083.2032932113825
+1135,Sony Mobile Comm. Xperia Xa2 Ultra,6845.379089167677
+1136,Sony Mobile Comm. Xperia Xz,12007.419138682171
+1137,Sony Mobile Comm. Xperia Xz Premium,9152.219827586207
+1138,Sony Mobile Comm. Xperia Xz1,5293.218266213235
+1139,Sony Mobile Comm. Xperia Xz1 Compact,14082.110423333334
+1140,Sony Mobile Comm. Xperia Xz2,8493.738308209877
+1141,Sony Mobile Comm. Xperia Xz2 Compact,9116.7
+1142,Sony Mobile Comm. Xperia Z2,3742.25
+1143,Sony Mobile Comm. Xperia Z3,7233.5
+1144,Sony Mobile Comm. Xperia Z3 Compact,7366.863636363636
+1145,Sony Mobile Comm. Xperia Z3+ Dual,5240.0
+1146,Sony Mobile Comm. Xperia Z5,10897.384615384615
+1147,Sony Mobile Comm. Xperia Z5 Compact,6625.973684210527
+1148,Sony Mobile Comm. Xperia Z5 Dual,14677.75
+1149,Sony Mobile Comm. Xperia Z5 Premium,12840.0
+1150,Source (Hk) Ltd J-Max Zara-Zara,132.0
+1151,Spa Condor Elect. A9 Plus,2303.0
+1152,Spa Condor Elect. Allure M1,7277.9
+1153,Spa Condor Elect. Allure M1 Plus,13215.5
+1154,Spa Condor Elect. Allure M2,23971.51148166667
+1155,Spa Condor Elect. Allure M3,13383.333333333334
+1156,Spa Condor Elect. C6+,5951.0
+1157,Spa Condor Elect. F6,3.5
+1158,Spa Condor Elect. P4,5075.5
+1159,Spa Condor Elect. P8 Lite,11290.75
+1160,Spa Condor Elect. Plume H1,1272.5
+1161,Spa Condor Elect. Plume L1 Plus,8440.0
+1162,Spa Condor Elect. Plume L2,38264.5
+1163,Spa Condor Elect. Plume P6 Pro Lte,13665.571441111111
+1164,Tcl Communicatio. A3 Xl,41.5
+1165,Tcl Communicatio. A7 Xl,7254.25
+1166,Tcl Communicatio. Alcatel 1,3676.1458333333335
+1167,Tcl Communicatio. Alcatel 1X,3732.3571428571427
+1168,Tcl Communicatio. Alcatel 3C,5157.75
+1169,Tcl Communicatio. Alcatel 3L 5034D,4450.75
+1170,Tcl Communicatio. Alcatel 3V,823.5
+1171,Tcl Communicatio. Alcatel A3,3199.0
+1172,Tcl Communicatio. Alcatel A5 Led Alcatel A5,14524.0
+1173,Tcl Communicatio. Alcatel Idol4 6055K,4006.0
+1174,Tcl Communicatio. Alcatel M812F,10096.0
+1175,Tcl Communicatio. Alcatel Onetouch 5070D,16034.0
+1176,Tcl Communicatio. Alcatel Onetouch Idol3 (5.5),11801.666666666666
+1177,Tcl Communicatio. Alcatel Onetouch Pixi 3 (3.5) 4009D,811.0
+1178,Tcl Communicatio. Alcatel Onetouch Pixi 3 (3.5) 4009X,317.0
+1179,Tcl Communicatio. Alcatel Onetouch Pixi 3 (4),623.5
+1180,Tcl Communicatio. Alcatel Onetouch Pixi 3 (4.5),1601.8333333333333
+1181,Tcl Communicatio. Alcatel Onetouch Pop 3 (5),2790.285714285714
+1182,Tcl Communicatio. Alcatel Onetouch Pop 3 (5.5),143.5
+1183,Tcl Communicatio. Alcatel Pixi 4 (4) 4034D,1634.4571428571428
+1184,Tcl Communicatio. Alcatel Pixi 4 (4) 4034X,1106.75
+1185,Tcl Communicatio. Alcatel Pixi 4 (5) 5010D,4733.833333333333
+1186,Tcl Communicatio. Alcatel Pixi 4 (5) 5010E,5138.5
+1187,Tcl Communicatio. Alcatel Pixi 4 5045D,2654.0
+1188,Tcl Communicatio. Alcatel Pop4 6 4G 7070X,10746.0
+1189,Tcl Communicatio. Alcatel U5,4580.666666666667
+1190,Tcl Communicatio. B-Athena,3539.25
+1191,Tcl Communicatio. B-Luna,698.0
+1192,Tcl Communicatio. Blackberry Bba100-2,1867.5
+1193,Tcl Communicatio. Blackberry Bbb100-2,10335.503827222223
+1194,Tcl Communicatio. Linkzone,14857.880955864197
+1195,Tcl Communicatio. Nura 2,762.0
+1196,Tcl Communicatio. Pixi 4 6 3G Android,3697.25
+1197,Tcl Communicatio. Pixi 4 6 4G Android,1283.375
+1198,Tcl Communicatio. Pop 4+,1900.5
+1199,Tcl Communicatio. U3 3G,1264.15625
+1200,Tcl Communicatio. U5,4626.5
+1201,Tct Mobile Suzho. 7048A,6045.0
+1202,Tct Mobile Suzho. Alcatel One Touch 6010X,249.0
+1203,Tct Mobile Suzho. Alcatel One Touch 6030X,1051.0
+1204,Tct Mobile Suzho. Alcatel One Touch 997,24.5
+1205,Tct Mobile Suzho. Alcatel One Touch Pop C1 Alcatel One Touch Pop C1 Alcatel One Touch Pixi2,37.75
+1206,Tct Mobile Suzho. Alcatel One Touch Pop C5,2390.0
+1207,Tct Mobile Suzho. Alcatel One Touch Y580D,855.0
+1208,Tct Mobile Suzho. Alcatel Onetouch Idol 3 (4.7),5055.583333333333
+1209,Tct Mobile Suzho. Alcatel Onetouch Pop C2,213.5
+1210,Tct Mobile Suzho. Alcatel Onetouch Pop D5,8887.0
+1211,Tct Mobile Suzho. Alcatel Onetouch Pop S3,56.5
+1212,Tct Mobile Suzho. Alcatel Onetouch Pop S7,254.5
+1213,Tct Mobile Suzho. Alcatel Onetouch Pop2 4.5,11311.5
+1214,Tct Mobile Suzho. One Touch Idol S,19.0
+1215,Tecno Telecom (H. C9,250.0
+1216,Tecno Telecom (H. It1506,203.5
+1217,Tecno Telecom (H. Phantom6 Plus,27098.5
+1218,Teletalk Pvt Ltd Colors Cl220+,7488.0
+1219,Teletalk Pvt Ltd Colors F016,3.0
+1220,Telit Le910-Eu V2,49.75
+1221,Telit Le910-Eug,31.5
+1222,Telit Ul865-Eur,202.07142857142858
+1223,Test IMEI,1.0
+1224,Tianlong Interna. Uphone S922 Uphone S930,5970.0
+1225,Tianyu K-Touch M7,42.0
+1226,Tinno Mobile Tec. Lt X33,2074.5
+1227,Tinno Mobile Tec. Tinno S9091B,3629.5
+1228,Tinno Mobile Tec. Tinno S909X S930X S9311 P5003 P6001,191.0
+1229,Tinno Mobile Tec. Tinno S9111,3483.0
+1230,Tinno Mobile Tec. Tinno S9201,1337.5
+1231,Topwell Technolo. Topwell M318A,8.625
+1232,Tp-Link Technolo. Archer Mr200,5677.28125
+1233,Tp-Link Technolo. Archer Mr400,17430.333333333336
+1234,Tp-Link Technolo. C5A,2773.5
+1235,Tp-Link Technolo. C7 Y7,260.0
+1236,Tp-Link Technolo. Tl-Mr6400,5673.070862275133
+1237,Tp-Link Technolo. Tp-Link Archer Mr200 Tp-Link Tl-Mr6400,10327.871630537036
+1238,Tp-Link Technolo. Tp-Link M7350,12593.5
+1239,Tp-Link Technolo. Tp-Link Tp701A,11053.5
+1240,Tp-Link Technolo. X1 Lite,9197.25
+1241,Umi Network Tech. One,1814.5
+1242,Umi Network Tech. One Pro,31756.0
+1243,Umi Network Tech. Umidigi Z1 Pro,13074.75
+1244,Umi Network Tech. Z2,1326.5
+1245,Vastking Technol. Vastking M750,479.0
+1246,Vivo Mobile Comm. Vivo V7+,4694.0
+1247,Vivo Mobile Comm. Vivo Vivo 1718,23.5
+1248,Vivo Mobile Comm. Vivo Vivo X21A,5.5
+1249,Vivo Mobile Comm. Vivo Vivo X7Plus,2031.0
+1250,Vplus Communicat. Vplus V5001,2033.1666666666667
+1251,Wct Uno,0.0
+1252,Wiko Global Sasu Fever,3098.1428571428573
+1253,Wiko Global Sasu Harry2,5969.8
+1254,Wiko Global Sasu Jerry3,3390.5714285714284
+1255,Wiko Global Sasu Lenny 5,3889.5882352941176
+1256,Wiko Global Sasu Lenny2,1893.2142857142858
+1257,Wiko Global Sasu Rainbow Jam 4G,267.1666666666667
+1258,Wiko Global Sasu Sunny3,1316.0214285714285
+1259,Wiko Global Sasu Tommy3,8011.034722222223
+1260,Wiko Global Sasu View Go,3927.0
+1261,Wiko Global Sasu View Lite,11019.833333333334
+1262,Wiko Global Sasu View Max,1582.7142857142858
+1263,Wiko Global Sasu View2,11239.235294117647
+1264,Wiko Global Sasu View2 Go,7087.75
+1265,Wiko Global Sasu View2 Pro,6563.75
+1266,Wiko Global Sasu Wiko Barry Iggy Ozzy,1011.75
+1267,Wiko Global Sasu Wiko Darkmoon Slide,321.5
+1268,Wiko Global Sasu Wiko Freddy,8687.725
+1269,Wiko Global Sasu Wiko Goa,1203.2
+1270,Wiko Global Sasu Wiko Harry,2893.222222222222
+1271,Wiko Global Sasu Wiko Highway 4G,253.0
+1272,Wiko Global Sasu Wiko Highway Pure,11033.0
+1273,Wiko Global Sasu Wiko Highway Signs,2507.5
+1274,Wiko Global Sasu Wiko Iggy,1543.5
+1275,Wiko Global Sasu Wiko Jerry,2901.3125
+1276,Wiko Global Sasu Wiko Jerry Max,8499.5
+1277,Wiko Global Sasu Wiko Jerry2,3017.7727272727275
+1278,Wiko Global Sasu Wiko Jimmy,5193.375
+1279,Wiko Global Sasu Wiko Kite,24.0
+1280,Wiko Global Sasu Wiko Lenny,125.75
+1281,Wiko Global Sasu Wiko Lenny2,2189.6162790697676
+1282,Wiko Global Sasu Wiko Lenny3,3141.6045454545456
+1283,Wiko Global Sasu Wiko Lenny4,4371.947916666667
+1284,Wiko Global Sasu Wiko Lenny4 Plus,4730.0
+1285,Wiko Global Sasu Wiko Pulp 4G,4259.961538461538
+1286,Wiko Global Sasu Wiko Pulp Fab 4G,1490.6363636363637
+1287,Wiko Global Sasu Wiko Rainbow 4G,8293.5
+1288,Wiko Global Sasu Wiko Rainbow Getaway,4689.0
+1289,Wiko Global Sasu Wiko Rainbow Jam,8480.0
+1290,Wiko Global Sasu Wiko Rainbow Lite 4G,4974.808139534884
+1291,Wiko Global Sasu Wiko Rainbow Up 4G,1473.3333333333333
+1292,Wiko Global Sasu Wiko Ridge 4G,108.5
+1293,Wiko Global Sasu Wiko Robby,3319.4
+1294,Wiko Global Sasu Wiko Sunny,1961.7058823529412
+1295,Wiko Global Sasu Wiko Sunny2,1947.5625
+1296,Wiko Global Sasu Wiko Sunny2 Plus,4382.45
+1297,Wiko Global Sasu Wiko Sunset,3388.5
+1298,Wiko Global Sasu Wiko Sunset2,1816.0652173913043
+1299,Wiko Global Sasu Wiko Tommy,7710.266666666666
+1300,Wiko Global Sasu Wiko Tommy2,6340.523809523809
+1301,Wiko Global Sasu Wiko Tommy2 Plus,18325.4
+1302,Wiko Global Sasu Wiko U Feel,5924.316666666667
+1303,Wiko Global Sasu Wiko U Feel Lite,8828.55
+1304,Wiko Global Sasu Wiko U Feel Prime,4671.5
+1305,Wiko Global Sasu Wiko U Pulse,8992.5
+1306,Wiko Global Sasu Wiko Upulse Lite,7437.2307692307695
+1307,Wiko Global Sasu Wiko View,9170.559523809523
+1308,Wiko Global Sasu Wiko View Prime,7390.8
+1309,Wiko Global Sasu Wiko View Xl,2867.8333333333335
+1310,Wiko Global Sasu Wiko Wax,22.5
+1311,Wiko Global Sasu Wiko Wim Lite,14021.444444444445
+1312,Wiko Jerry3,4454.875
+1313,Wileyfox Europe. Wileyfox Spark,37.0
+1314,Wileyfox Europe. Wileyfox Swift 2,19533.5
+1315,Wistron M18Qw,6706.5
+1316,Wistron Wnc D18Qx,861.5
+1317,Xiaomi Communica. A1,353.5
+1318,Xiaomi Communica. A12A,7576.0
+1319,Xiaomi Communica. A7,5876.9
+1320,Xiaomi Communica. B3,541.0
+1321,Xiaomi Communica. B5,22183.0
+1322,Xiaomi Communica. B6L,8985.5
+1323,Xiaomi Communica. C3,5590.5
+1324,Xiaomi Communica. H3A,207.5
+1325,Xiaomi Communica. H3C,11759.0
+1326,Xiaomi Communica. M1803E1A,25471.214323333334
+1327,Xiaomi Communica. M1804C3Dg,12501.125
+1328,Xiaomi Communica. M1805D1Sg,3853.214285714286
+1329,Xiaomi Communica. M1805E10A,6201.5
+1330,Xiaomi Communica. M1806E7Tg,8481.416666666666
+1331,Xiaomi Communica. M1807E8A,5844.0
+1332,Xiaomi Communica. M1808D2Tg,7579.6045926666675
+1333,Xiaomi Communica. M1901F7G,1678.5
+1334,Xiaomi Communica. M1902F1G,15464.34098777778
+1335,Xiaomi Communica. Mi 5X,2029.5
+1336,Xiaomi Communica. Mi 6,17115.51148166667
+1337,Xiaomi Communica. Mi 8,11286.451530888888
+1338,Xiaomi Communica. Mi A1,11315.3
+1339,Xiaomi Communica. Mi A2,9160.515625
+1340,Xiaomi Communica. Mi A2 Lite,7561.76388888889
+1341,Xiaomi Communica. Mi Max2,11753.5
+1342,Xiaomi Communica. Mi Max3,14279.5
+1343,Xiaomi Communica. Mi Mix2,5232.0
+1344,Xiaomi Communica. Mi Mix2S,11408.255957083333
+1345,Xiaomi Communica. Pocophone F1,10590.058823529413
+1346,Xiaomi Communica. Redmi 2,12875.5
+1347,Xiaomi Communica. Redmi 3S,3113.5
+1348,Xiaomi Communica. Redmi 4A,742.5
+1349,Xiaomi Communica. Redmi 4X,4492.088235294118
+1350,Xiaomi Communica. Redmi 5,10702.333333333334
+1351,Xiaomi Communica. Redmi 5 Plus,9185.357142857143
+1352,Xiaomi Communica. Redmi 5A,5919.5
+1353,Xiaomi Communica. Redmi 5Plus,20262.880740833334
+1354,Xiaomi Communica. Redmi 6,5793.714285714285
+1355,Xiaomi Communica. Redmi Note 2,24690.5
+1356,Xiaomi Communica. Redmi Note3,9758.5
+1357,Xiaomi Communica. Redmi Note4,11200.765308809525
+1358,Xiaomi Communica. Redmi Note4X,7681.125
+1359,Xiaomi Communica. Redmi Note5,12877.065651813726
+1360,Xiaomi Communica. Redmi Note5A,10239.833333333334
+1361,Xiaomi Communica. Redmi Note5A Prime,8609.5
+1362,Xiaomi Communica. Redmi Note6 Pro,11414.111111111111
+1363,Xiaomi Communica. Redmi S2,9499.035714285714
+1364,Xiaomi Communica. Xiaomi Note,9569.0
+1365,Yi Sheng Technol. Gretel A7,2608.5
+1366,Yop Technology C. Maze Alpha,8015.0
+1367,Yota Devices Yota Y3,509.0
+1368,Yota Devices Yotaphone2,9937.0
+1369,Zebra Technologi. Mc5574,59.0
+1370,Zebra Technologi. Mc659B,347.625
+1371,Zebra Technologi. Mc67Na,292.5
+1372,Zebra Technologi. Symbol Tc55Bh,2321.8928571428573
+1373,Zte A2016,5917.25
+1374,Zte Axon 6S Zte Axon 7 Axon 7,540.5
+1375,Zte Axon M Zte Axon M Axon M Axon M,4.0
+1376,Zte Blade A2 Plus Zte Blade A610 Plus,352.5
+1377,Zte Blade A452 Blade A452,229.5
+1378,Zte Blade A506 Blade A506,145.5
+1379,Zte Blade A506 Blade A506 Dive 71 Orange Dive 71 D52 Lite,255.5
+1380,Zte Blade L110 Zte Blade L110 Blade L110 Blade L110,3910.5
+1381,Zte Blade V7 Lite Blade V6 Plus Zte Blitz,11393.125
+1382,Zte Blade V8 Blade V8,25475.0
+1383,Zte Blade V8 Lite Blade V8 Lite Zte Blade V8 Se,1322.0
+1384,Zte Mf190,5158.5
+1385,Zte Mf259,85.45730452674897
+1386,Zte Mf626,3048.0
+1387,Zte Racer Iii Mini Zte Switch X1 Bouygues Telecom Bs 402 Blade Q Mini Zte Blade G Pro,774.5
+1388,Zte Starxtrem By Sfr,444.0
+1389,Zte Zte Blade C2 Smartphone Android By Sfr Startrail 4 Zte Blade Flex T809 Zte T809,29.0
+1390,Zyxel Communicat. Lte7460,20755.714323333334
+1391,Zyxel Communicat. Sbg3600,48675.5
+1392,Zyxel Communicat. Zyxel Wah7706,1086.5
+1393,undefined,3483.7208482163264
