@@ -1,1 +1,2 @@
-telecom_data.xlsx filter=lfs diff=lfs merge=lfs -text
+telcom_data.xlsx filter=lfs diff=lfs merge=lfs -text
+random_forest_model.joblib filter=lfs diff=lfs merge=lfs -text
