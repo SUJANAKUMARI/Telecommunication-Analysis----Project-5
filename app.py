@@ -275,7 +275,7 @@ elif page == "User Engagement Analysis":
     st.image(image)
 
     st.subheader("Visualization of 3D Clusters in 3 Groups in Engagement Metrics")
-    image = Image.open('visualization of 3D cluster in engagement metrics.png')
+    image = Image.open('Visualization of 3D cluster in engagement metrics.png')
     st.image(image)
 
     st.subheader("K-3 Means Cluster Metrics")
