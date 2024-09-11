@@ -1,3 +1,6 @@
+![telecom industry](https://github.com/user-attachments/assets/c0d517bb-9418-4f01-83c1-2ba5918eccc4)
+
+
 ## User Analytics in the Telecommunication Industry
 
 We are working for a wealthy investor that specializes in purchasing assets that are undervalued. This investor’s due diligence on all purchases includes a detailed analysis of the data that underlies the business, to try to understand the fundamentals of the business and especially to identify opportunities to drive profitability by changing the focus of which products or services are being offered.
