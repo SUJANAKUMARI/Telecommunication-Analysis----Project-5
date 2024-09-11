@@ -6,6 +6,8 @@ import seaborn as sns
 from PIL import Image
 import joblib
 import sklearn
+import os
+
 
 # Navigation menu
 image = Image.open('telecom image navigation bar.png')
@@ -468,7 +470,7 @@ elif page == "Experience Analytics":
     st.image(image)
 
     st.subheader("Visualization of 3D clustering using Experience Analysis")
-    image = Image.open('visualization of 3D cluster in experience analysis1.png')
+    image = Image.open('Visualization of 3D cluster in experience analysis1.png')
     st.image(image)
 
     st.markdown("""
