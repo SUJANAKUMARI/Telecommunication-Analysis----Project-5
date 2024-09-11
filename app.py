@@ -468,7 +468,7 @@ elif page == "Experience Analytics":
     st.image(image)
 
     st.subheader("Visualization of 3D clustering using Experience Analysis")
-    image = Image.open('visualization of 3D cluster in experience analysis.png')
+    image = Image.open('visualization of 3D cluster in experience analysis1.png')
     st.image(image)
 
     st.markdown("""
