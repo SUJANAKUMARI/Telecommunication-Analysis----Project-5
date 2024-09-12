@@ -1,0 +1,3 @@
+https://sujanakumari-telecommunication-analysis----project-5-app-9q54fy.streamlit.app/
+
+this is my sreamlit app URL after deployment
